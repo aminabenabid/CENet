@@ -1,4 +1,4 @@
-# CENet (The full code will be released upon acceptance of the paper
+# ## CENet (The full code will be released upon acceptance of the paper
 CENet is aLightweight Context-Enhanced Network for Efficient and Accurate Medical Image classification
 
 
